@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import ResourceList from './components/ResourceList';
+import resourcesData from './resources.json';
 
 function App() {
+  const [resources, setResources] = useState([]);
+
+  useEffect(() => {
+    // Simulate fetching data from JSON file
+    setResources(resourcesData);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="min-h-screen bg-gray-100 py-10 px-5">
+      <div className="container mx-auto max-w-4xl">
+        <h1 className="text-3xl font-bold text-center mb-8">CS Resources Tracker</h1>
+        <ResourceList resources={resources} />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,261 @@
+[
+    {
+      "name": "Google CoLab",
+      "url": "https://colab.research.google.com/drive/",
+      "type": "Website",
+      "description": "Google CoLab platform for Python coding and notebooks."
+    },
+    {
+      "name": "Python Basics",
+      "url": "https://youtu.be/rfscVS0vtbw?si=0HX6rD0QuxFN_9y9",
+      "type": "YouTube Video",
+      "description": "A YouTube tutorial for learning Python basics."
+    },
+    {
+      "name": "Numpy",
+      "url": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+      "type": "YouTube Video",
+      "description": "Learn Numpy with this YouTube tutorial."
+    },
+    {
+      "name": "Pandas",
+      "url": "https://youtu.be/gtjxAH8uaP0?si=nhNvrEyD9UAJ1mLn",
+      "type": "YouTube Video",
+      "description": "A YouTube tutorial for learning Pandas."
+    },
+    {
+      "name": "Matplotlib",
+      "url": "https://www.youtube.com/watch?v=3Xc3CA655Y4",
+      "type": "YouTube Video",
+      "description": "Matplotlib YouTube tutorial."
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "url": "https://youtu.be/8hly31xKli0?si=lff_MCDPdn6NNbdl",
+      "type": "YouTube Video",
+      "description": "Data Structures & Algorithms learning video."
+    },
+    {
+      "name": "Git Download",
+      "url": "http://git-scm.com/",
+      "type": "Website",
+      "description": "Download Git for version control."
+    },
+    {
+      "name": "RAG Bot Repo",
+      "url": "https://github.com/UB-AICLUB/RagBot",
+      "type": "Website",
+      "description": "Repository for RAG Bot."
+    },
+    {
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "type": "Website",
+      "description": "Free coding lessons and resources."
+    },
+    {
+      "name": "3blue1brown",
+      "url": "https://www.youtube.com/@3blue1brown",
+      "type": "YouTube Channel",
+      "description": "Great content on math and machine learning."
+    },
+    {
+      "name": "aarthificial",
+      "url": "https://www.youtube.com/@aarthificial",
+      "type": "YouTube Channel",
+      "description": "Game development content with technical focus."
+    },
+    {
+      "name": "Abdul Bari",
+      "url": "https://www.youtube.com/@abdul_bari",
+      "type": "YouTube Channel",
+      "description": "University CS concepts explained."
+    },
+    {
+      "name": "Acerola",
+      "url": "https://www.youtube.com/@Acerola_t",
+      "type": "YouTube Channel",
+      "description": "Computer graphics and programming content."
+    },
+    {
+      "name": "Answer in Progress",
+      "url": "https://www.youtube.com/@answerinprogress",
+      "type": "YouTube Channel",
+      "description": "Interesting projects on everyday topics."
+    },
+    {
+      "name": "Ben Awad",
+      "url": "https://www.youtube.com/@bawad",
+      "type": "YouTube Channel",
+      "description": "General software development, funny and informative."
+    },
+    {
+      "name": "Code Bullet",
+      "url": "https://www.youtube.com/@CodeBullet",
+      "type": "YouTube Channel",
+      "description": "Cool AI projects and entertaining videos."
+    },
+    {
+      "name": "Code Aesthetic",
+      "url": "https://www.youtube.com/@CodeAesthetic",
+      "type": "YouTube Channel",
+      "description": "Channel focusing on good coding practices."
+    },
+    {
+      "name": "Computerphile",
+      "url": "https://www.youtube.com/@Computerphile",
+      "type": "YouTube Channel",
+      "description": "Videos on various computer science topics."
+    },
+    {
+      "name": "Fireship",
+      "url": "https://www.youtube.com/@Fireship",
+      "type": "YouTube Channel",
+      "description": "Tech news and programming topics."
+    },
+    {
+      "name": "Hyperplexed",
+      "url": "https://www.youtube.com/@Hyperplexed",
+      "type": "YouTube Channel",
+      "description": "Beautiful UI designs and detailed explanations."
+    },
+    {
+      "name": "javidx9",
+      "url": "https://www.youtube.com/@javidx9",
+      "type": "YouTube Channel",
+      "description": "C and C++ projects and tutorials."
+    },
+    {
+      "name": "Low Level Learning",
+      "url": "https://www.youtube.com/@LowLevelLearning",
+      "type": "YouTube Channel",
+      "description": "Cyber security and low-level programming."
+    },
+    {
+      "name": "mCoding",
+      "url": "https://www.youtube.com/@mCoding",
+      "type": "YouTube Channel",
+      "description": "Advanced Python tutorials and news."
+    },
+    {
+      "name": "Nicholas Renotte",
+      "url": "https://www.youtube.com/@NicholasRenotte",
+      "type": "YouTube Channel",
+      "description": "Machine learning tutorials and projects."
+    },
+    {
+      "name": "NoBoilerplate",
+      "url": "https://www.youtube.com/@NoBoilerplate",
+      "type": "YouTube Channel",
+      "description": "Fast, technical videos about coding."
+    },
+    {
+      "name": "Numberphile",
+      "url": "https://www.youtube.com/@numberphile",
+      "type": "YouTube Channel",
+      "description": "Math and statistics explained in a fun way."
+    },
+    {
+      "name": "Pirate Software",
+      "url": "https://www.youtube.com/@PirateSoftware",
+      "type": "YouTube Channel",
+      "description": "Game development and coding tutorials."
+    },
+    {
+      "name": "Primer Blobs",
+      "url": "https://www.youtube.com/@PrimerBlobs",
+      "type": "YouTube Channel",
+      "description": "Simulations on intriguing topics."
+    },
+    {
+      "name": "PwnFunction",
+      "url": "https://www.youtube.com/@PwnFunction",
+      "type": "YouTube Channel",
+      "description": "Cyber security and code hacking prevention."
+    },
+    {
+      "name": "Standup Maths",
+      "url": "https://www.youtube.com/@standupmaths",
+      "type": "YouTube Channel",
+      "description": "Cool math videos, stats, and probabilities."
+    },
+    {
+      "name": "StatQuest",
+      "url": "https://www.youtube.com/@statquest",
+      "type": "YouTube Channel",
+      "description": "Go-to channel for learning statistics."
+    },
+    {
+      "name": "TechHut",
+      "url": "https://www.youtube.com/@TechHut",
+      "type": "YouTube Channel",
+      "description": "Coding guides and tutorials."
+    },
+    {
+      "name": "TechLinked",
+      "url": "https://www.youtube.com/@techlinked",
+      "type": "YouTube Channel",
+      "description": "Tech news and updates."
+    },
+    {
+      "name": "The Coding Train",
+      "url": "https://www.youtube.com/@TheCodingTrain",
+      "type": "YouTube Channel",
+      "description": "Fun coding tutorials using p5.js."
+    },
+    {
+      "name": "The Prime Timeagen",
+      "url": "https://www.youtube.com/@ThePrimeTimeagen",
+      "type": "YouTube Channel",
+      "description": "Tech discussions, blogs, and daily streams."
+    },
+    {
+      "name": "ThioJoe",
+      "url": "https://www.youtube.com/@ThioJoe",
+      "type": "YouTube Channel",
+      "description": "General tech, cyber security, and tutorials."
+    },
+    {
+      "name": "TLDR Business",
+      "url": "https://www.youtube.com/@TLDRbusiness",
+      "type": "YouTube Channel",
+      "description": "Business-focused videos and content."
+    },
+    {
+      "name": "Tom Scott",
+      "url": "https://www.youtube.com/@TomScottGo",
+      "type": "YouTube Channel",
+      "description": "Retired YouTuber with interesting tech content."
+    },
+    {
+      "name": "Two Minute Papers",
+      "url": "https://www.youtube.com/@TwoMinutePapers",
+      "type": "YouTube Channel",
+      "description": "Latest papers on computer graphics and AI."
+    },
+    {
+      "name": "Veritasium",
+      "url": "https://www.youtube.com/@veritasium",
+      "type": "YouTube Channel",
+      "description": "Physics and tech-related videos."
+    },
+    {
+      "name": "Vsauce",
+      "url": "https://www.youtube.com/@Vsauce",
+      "type": "YouTube Channel",
+      "description": "Fun, thought-provoking videos on stats and tech."
+    },
+    {
+      "name": "Vsauce2",
+      "url": "https://www.youtube.com/@Vsauce2",
+      "type": "YouTube Channel",
+      "description": "Similar content to Vsauce but with a different host."
+    },
+    {
+      "name": "Zack Freedman",
+      "url": "https://www.youtube.com/@ZackFreedman",
+      "type": "YouTube Channel",
+      "description": "Fun robotics and tech-related videos."
+    }
+  ]
+  
